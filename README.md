@@ -3,31 +3,13 @@ This project impelemented for midterm of the Machine Learning #Zoomcamp #Alexey 
 ## Context
 
 ## Dataset
-
+English question data set file
 ## Feature Description
+question answering
 
+### English data set data:
+check answer
 
-### bank client data:
-
-## Repo Structure
-
-The following files are included in the repo:
-
-```
-heart-failure-prediction
-├── Dockerfile <- Docker file with specifications of the docker container
-├── Pipfile <- File with names and versions of packages installed in the virtual environment
-├── Pipfile.lock <- Json file that contains versions of packages, and dependencies required for each package
-├── Procfile <- Procfile for Cloud deployment
-├── README.md <- Getting started guide of the project
-├── .csv <- Dataset
-├── model.bin <- Exported trained model
-├── notebook.ipynb <- Jupyter notebook with all codes
-├── predict.py <- Model prediction API script for local deployment
-├── preduct_test.py <- Model prediction API script for testing
-├── requirements.txt <- Package dependency management file
-└── train.py <- Final model training script
-```
 
 ## Create a Virtual Environment
 
